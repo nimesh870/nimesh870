@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since  2023<br>📚 I'm currently learning python for AI/ML<br>🎯 Goals: A software developer.</p>
+<p align="left">✨ Creating bugs since  2023<br>📚 I'm currently learning python for AI/ML<br>🎯 Goals: An AI engineer.</p>
 
 ###
 
