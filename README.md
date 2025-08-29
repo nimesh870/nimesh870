@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nimesh and I'm an AI/ML learner from Nepal.  <br>I’m passionate about exploring the world of Artificial Intelligence and Machine Learning,  <br>and I love building projects that help me learn and grow every day. 🚀</p>
+<p align="left">My name is Nimesh and I'm a learner from Nepal.  <br>I’m passionate about exploring the world of Artificial Intelligence and Machine Learning,  <br>and I love building projects that help me learn and grow every day. 🚀</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since  2023<br>📚 I'm currently learning python for AI/ML<br>🎯 Goals: An AI engineer.</p>
+<p align="left">✨ Creating bugs since  2023<br>📚🎯
 
 ###
 
